@@ -40,9 +40,8 @@ Measuring Outcomeの日本語翻訳は、長沢智治が担当しました。誤
 Have fun!
 Scrum Facilitators 一同より
 
-www.scrumfacilitators.nl
+www.scrumfacilitators.com
 
-![SF](https://www.scrumfacilitators.nl/wp-content/uploads/2020/04/cropped-SCRUMFACILITATOR_Mesa-de-trabajo-1-150x150-1-1.png)
 
 
 
